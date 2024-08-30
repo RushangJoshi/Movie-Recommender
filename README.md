@@ -1,4 +1,4 @@
-##Movie Recommender System:
+Movie Recommender System:
 
 Objective: Developed a movie recommendation system to provide personalized movie suggestions.
 
